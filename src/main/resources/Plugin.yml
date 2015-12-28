@@ -1,0 +1,11 @@
+name: Afk-Plugin
+version: 0.1
+main:
+
+author: Finnthehorrible<Finn>
+depend: [Spigot_Server]
+
+commands:
+  afk:
+    usage: /afk
+    description: set you in the "afk-mode"
